@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+cv_bank.db
+cv_files/
